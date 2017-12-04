@@ -13,6 +13,7 @@ This is the second version of the Heat Mapper I've made.  This one uses a Dictio
 
 # Setup
 Create an empty GameObject and add the HeatMap script.  Choose your desired interval(distance between nodes) width and height.  If you want to see an image of the heatmap create a canvas with a raw image and drop it into the Hea Map Raw Image field.  
+
 Hit the CreateGrid button and wait for the grid to generate.  To view the grid after generation press the Show Boxes button.
 
 Add the HeatMapAffector script to any GameObject you want to affect the heat map.  
