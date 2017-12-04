@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ae06e43db9c135a478f331879bf93b4c
+timeCreated: 1512403271
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HeatNodePrefab: {fileID: 1186790243086610, guid: b0d6e514fd73541499bcf94bdef13c68,
+      type: 2}
+  - HeatMapRawImageToReplace: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
