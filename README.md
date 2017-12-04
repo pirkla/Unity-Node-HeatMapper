@@ -12,7 +12,7 @@ This is the second version of the Heat Mapper I've made.  This one uses a Dictio
 -Function to find the heat of an area around each node.  Only partially implemented, not optimized.
 
 # Setup
-Create an empty GameObject and add the HeatMap script.  Choose your desired interval(distance between nodes) width and height.  If you want to see an image of the heatmap create a canvas with a raw image and drop it into the Hea Map Raw Image field.  
+Create an empty GameObject and add the HeatMap script.  Choose your desired interval(distance between nodes) width and height.  If you want to see an image of the heatmap create a canvas with a raw image and drop it into the Heat Map Raw Image field.  
 
 Hit the CreateGrid button and wait for the grid to generate.  To view the grid after generation press the Show Boxes button.
 
