@@ -6,7 +6,9 @@ This is the second version of the Heat Mapper I've made.  This one uses a Dictio
 
 # Features
 -Multiple layers on the heat map to accomodate different teams or objects.
+
 -Generates image of the heat map from the nodes.
+
 -Function to find the heat of an area around each node.  Only partially implemented, not optimized.
 
 # Setup
